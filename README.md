@@ -1,6 +1,6 @@
 # Java Exam
 
-My exam for Java OOP:
+My exam for Java OOP completed **12/05/2021**:
 
 Q1 [25 Marks]
 
@@ -90,10 +90,10 @@ a) Write a class to represent the PVA information required. You should ensure th
 
 b) The requirements for this PVA input screen are as follows:
 
-    i. The user is allowed enter in the Year / Month.
-    ii. The user can then choose whether this Year/Month combination requires VAT information to be input. Utilise one of the GUI components to enable / disable the VAT Reference / Goods     fields entry. These fields should only be enabled if the user has indicated that they have data for this month. Note – if there is no data to be entered, then only the year and month are saved to your class.
-    iii. A Cancel button is required on this input screen. If the user clicks this button, they should be asked to confirm they want to exit. Exit should close the PVA input screen.
-    iv. A Save button is required which allows you to save the data that the user entered. This button should only be enabled when the user has entered in valid data. When the Save button is clicked – the user should be asked to confirm that the data is correct. The data should be saved to a text file – no specific format required.
+   i. The user is allowed enter in the Year / Month.
+  ii. The user can then choose whether this Year/Month combination requires VAT information to be input. Utilise one of the GUI components to enable / disable the VAT Reference / Goods              fields entry. These fields should only be enabled if the user has indicated that they have data for this month. Note – if there is no data to be entered, then only the year and month          are saved to your class.
+  iii. A Cancel button is required on this input screen. If the user clicks this button, they should be asked to confirm they want to exit. Exit should close the PVA input screen.
+  iv. A Save button is required which allows you to save the data that the user entered. This button should only be enabled when the user has entered in valid data. When the Save button is          clicked – the user should be asked to confirm that the data is correct. The data should be saved to a text file – no specific format required.
     
 You are required to:
 1. Provide a flowchart or pseudocode to represent the requirements.
